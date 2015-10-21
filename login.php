@@ -6,7 +6,7 @@
 		$m = oci_error();
 		echo $m['message'], "\n";
 		exit;
-	} 
+	}
 ?>
 Login form
 <hr>
